@@ -1,0 +1,1 @@
+added "usbcore.quirks=2386:433b:bk" to my kernel parameters and the touchscreen started working
